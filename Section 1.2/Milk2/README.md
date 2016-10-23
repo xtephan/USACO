@@ -17,15 +17,20 @@ INPUT FORMAT
 ------------
 
 Line 1:	The single integer, N
+
 Lines 2..N+1:	Two non-negative integers less than 1,000,000, respectively the starting and ending time in seconds after 0500
 
 
 **SAMPLE INPUT (file milk2.in)**
 
 3
+
 300 1000
+
 700 1200
+
 1500 2100
+
 
 OUTPUT FORMAT
 -------------
