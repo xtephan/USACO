@@ -100,7 +100,7 @@ bool isPrimeCryptarithm( int digit_configuration[] ) {
         return false;
     }
 
-    if( total > 9999 || !hasAllowedDigits(total) ) {
+    if( !hasAllowedDigits(total) ) {
         return false;
     }
 
